@@ -1,2 +1,2 @@
 # DS-Take-Home-Challenge
-My solutions for DS take home challenge book 
+emzak208 solutions for DS take home challenge book 
